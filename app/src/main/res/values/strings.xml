@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gasto de Viagem</string>
+    <string name="distancia">Distância</string>
+    <string name="total_de_quilometros">Total de quilômetros</string>
+    <string name="preco">Preço</string>
+    <string name="preco_por_litro">Preço por Litro</string>
+    <string name="autonomia">Autonomia do veículo</string>
+    <string name="kms_por_litros">Kms por litro</string>
+    <string name="gasto_total">Seu gasto total será de:</string>
+    <string name="calcular">Calcular</string>
+    <string name="valor_total_RS">R$ 0</string>
+    <string name="Preencha_tds_campos">Preencha todos os campos!</string>
+    <string name="numeros_validos">Por favor, informe valores válidos</string>
+    <string name="github">Github: G-ars</string>
+</resources>
